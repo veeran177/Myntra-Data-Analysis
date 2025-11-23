@@ -39,6 +39,9 @@ Pandas & NumPy: Loading, cleaning, and transforming data; handling missing value
 
 Matplotlib & Seaborn: Creating a wide range of visualizations, including histograms, bar plots, and scatter plots, to communicate findings effectively.
 
+<img width="826" height="388" alt="image" src="https://github.com/user-attachments/assets/816a2a88-ed00-4307-b267-97bfafbfb5bf" />
+
+
 5. Key Findings
 Through comprehensive EDA, several interesting insights were discovered:
 
